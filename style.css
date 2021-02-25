@@ -1,0 +1,59 @@
+div{
+border: 1px red  solid;
+
+}
+.group > div {
+    background: white;
+    float: left;
+    width: 23%;
+    margin-right: 2%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+img{width: 90%; /* Ширина */
+    float: center; /* Выстраиваем элементы по горизонтали */
+    margin: 0 0 0 3.5%; /* Отступ слева */
+    background: #f0f0f0; /* Цвет фона */
+    border-radius: 5px; /* Радиус скругления */
+    padding: 2%; /* Поля */
+}
+p,h1,h2{
+    font-family: 'Stick', sans-serif;
+    color: navy;
+}
+p{
+    font-size:smaller;
+}
+h2{
+    font-size: small;
+    text-align: center;
+}
+h1{
+    font-size: medium;
+}
+
+a{
+    color: black; 
+    text-decoration: none;
+}
+body{
+    background-image: url(https://st2.depositphotos.com/3317997/7658/v/600/depositphotos_76586361-stock-illustration-seamless-colorful-background-made-of.jpg);
+}
+header
+{font-size: small;
+    text-align: center;
+    background-color: ivory;
+    font-size: 50px;
+    padding: 1px;
+    margin: 1px;
+}
+.logo{
+    width: 1.5ex; /* Ширина */
+    float: centr; /* Выстраиваем элементы по горизонтали */
+    margin: 0 ; /* Отступ слева */
+    padding: 2px; /* Поля */
+}
